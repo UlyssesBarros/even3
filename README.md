@@ -7,8 +7,6 @@
 
 ## Dificuldades:
 
-# Markdown
-
 1. Não saber utilizar edição de imagens no html ou outra tecnologia. Gostei bastante da ideia do projeto e gostaria de aprender mais a respeito
 2. Tive que fazer uma viagem e fiquei sem internet, impossibilitando meu aprendizado para concluir o projeto.
 
